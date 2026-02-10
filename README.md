@@ -72,7 +72,7 @@ hydra -L users.txt -P pass.txt < ip-адрес > ssh
 
 ### `` логи событий Fail2Ban и Suricata ``
 
-<img width="1920" height="1080" alt="Снимок экрана (1253)" https://github.com/Agooll007/Avetisov_13_03_hw/blob/main/img/2026-02-10_05-03-36.png" />
+<img width="1920" height="1080" alt="Снимок экрана (1254)" src="https://github.com/Agooll007/Avetisov_13_03_hw/blob/main/img/2026-02-10_05-03-44.png" />
 
 <img width="1920" height="1080" alt="Снимок экрана (1254)" src="https://github.com/Agooll007/Avetisov_13_03_hw/blob/main/img/2026-02-10_05-33-08.png" />
 
